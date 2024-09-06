@@ -6,7 +6,7 @@ type: docs
 math: false
 # external_link: https://www.youtube.com/watch?v=1E4_V8r6XDc
 tags:
-  - SC2
+  - AI
 ---
 
 {{< youtube 1E4_V8r6XDc >}}

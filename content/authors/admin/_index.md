@@ -36,13 +36,13 @@ profiles:
     url: 'www.fengmao@outlook.com'
     label: E-mail Me
   - icon: brands/blog
-    url: https://www.cnblogs.com/
+    url: https://www.cnblogs.com/fengmao31
   - icon: brands/bilibili
     url: https://space.bilibili.com/22443768
   - icon: brands/github2
     url: https://github.com/fengmao31
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/moddb
+    url: https://www.moddb.com/members/fengmao31
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid

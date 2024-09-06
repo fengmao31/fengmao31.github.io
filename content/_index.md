@@ -75,7 +75,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Recent Patent
+      title: Recent Patents
       text: ""
       filters:
         folders:
