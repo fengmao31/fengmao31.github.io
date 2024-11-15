@@ -25,7 +25,7 @@ summary: This thesis presents the implementation of a multi-layer architecture i
 tags:
 - Chatbot
 
-featured: true
+featured: false
 
 links:
 url_video: 'https://www.youtube.com/watch?v=TYzX47ERTpQ'

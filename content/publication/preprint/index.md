@@ -1,48 +1,48 @@
-<!-- ---
-title: "An example preprint / working paper"
+---
+title: "Service Discovery-based Hybrid Network Robotic Middleware for Efficient Communication"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Shiyao Sang
+date: "2023-10-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: With the ongoing advancements in artificial intelligence and robotics technology, distributed robotic operating systems have become crucial in fields such as intelligent robotics, autonomous vehicles, and smart manufacturing. These systems rely on efficient robotic middleware for reliable inter-component communication. However, existing solutions still face challenges in managing diverse communication demands, optimizing cross-domain communication efficiency, and ensuring the determinacy of communication scheduling. This research introduces an innovative robotic middleware framework designed to overcome these challenges through a hybrid network communication strategy. By flexibly switching the scope of service discovery, the framework supports diverse communication methods ranging from in-process shared pointers to cross-device various Ethernet protocols. A core data stream forwarding mechanism significantly reduces data redundancy and non-deterministic delays in cross-domain communication, thus enhancing communication efficiency and stability. This study not only extends the communication capabilities of robotic operating systems but also offers a new solution path for complex communications in distributed systems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This research presents an innovative robotic middleware framework that enhances communication efficiency, stability, and determinacy in distributed robotic operating systems through a hybrid network communication strategy and optimized data stream forwarding.
 
 tags:
-- Large Language Models
+- Robot
 
-featured: false
+featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# - name: Custom Link
+#   url: http://example.org
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -52,7 +52,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- robotaxi
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -62,7 +62,9 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work is currently under submission to ICRA 2025.
+
+<!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
