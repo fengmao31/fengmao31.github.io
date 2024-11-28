@@ -30,7 +30,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://github.com/fengmao31/fengmao31.github.io/blob/main/content/publication/thesis_education_robot/ieeeconf_rimaos2c_draft.pdf'
+url_pdf: content/publication/conference_paper_rimaos2c/ieeeconf_rimaos2c_draft.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
