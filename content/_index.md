@@ -35,19 +35,19 @@ sections:
       title: '📚 Current Research'
       subtitle: ''
       text: |-
-        My research focuses on intelligent robotics and artificial intelligence, particularly in multi-agent decision-making and human-machine symbiosis scenarios. I am currently investigating the following areas:
+        My research focuses on intelligent robotics and artificial intelligence, with a particular emphasis on enhancing autonomy, decision-making, and human-machine interaction. I am currently exploring the following areas:
 
-        - Emergent Intelligence in Large Models and High-Dimensional Output Challenges
+        - Multi-Task Decision-Making with Chain-of-Thought for Improved Autonomy
 
-        While deep reinforcement learning excels at handling high-dimensional inputs, generating high-dimensional outputs remains a significant challenge. I am exploring whether emergent intelligence in large models can address this issue. Preliminary experiments show that large models can foster a degree of social cooperation among multiple agents, potentially providing a pathway to building AI systems with common-sense constraints and cooperative behavior.
+        I investigate how integrating chain-of-thought processes into multi-task decision-making can enhance the autonomy of robotic systems. By simulating human-like reasoning, robots can better handle complex tasks in dynamic environments, making more informed and independent decisions across multiple scenarios.
 
-        - Multi-Agent Cooperation and Decision-Making
+        - LLM-Assisted Human-Like Decision-Making and Explainability
 
-        My research delves into the mechanisms of cooperation and decision-making in multi-agent systems within complex environments. By integrating large models, I aim to enhance the cooperation and efficiency of these systems. The focus is on leveraging social cooperation, distributed learning, and collaboration strategies to optimize the intelligence of multi-agent frameworks.
+        I am exploring the use of Large Language Models (LLMs) to assist robots in making human-like decisions with enhanced explainability. By leveraging LLMs, robots can generate natural language explanations for their actions, improving transparency and fostering trust in human-robot interactions. This approach aims to bridge the gap between AI decision-making processes and human understanding.
 
-        - Human-Machine Symbiosis Paradigms
+        - Generative Robot World Models with Monte Carlo Exploration
         
-        I am also exploring how large models and reinforcement learning can incorporate human intuition, common sense, and social norms into AI systems to promote effective interaction and symbiosis between humans and machines. This research aims to support more robust AI performance in practical applications.
+        My research also focuses on constructing generative world models that include robot actions and environmental dynamics. By employing Monte Carlo methods for exploration and evaluation, I aim to predict and assess possible future actions. This enables robots to plan ahead and make optimal decisions in uncertain environments, enhancing their ability to adapt and perform complex tasks.
         
         Please reach out to collaborate 😃
     design:
