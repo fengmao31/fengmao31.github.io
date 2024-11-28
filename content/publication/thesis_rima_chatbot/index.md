@@ -14,7 +14,7 @@ publishDate: "2018-05-30T00:00:00Z"
 publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Thesis"
 publication_short: ""
 
 abstract: This thesis designs and implements an intelligent chatbot system called Rima, designed for IoT robots. The system is based on a three-layer architecture that integrates language understanding services (LUIS), a retrieval-based chatbot (AIML), and a generative chatbot (Seq2seq), enabling command recognition and natural language conversation. Through cross-platform development, Rima operates in various client environments and offers API support, allowing the chatbot to be utilized in IoT devices. The experiments demonstrate that the multi-layer hybrid structure performs well in both command execution and casual conversations, proving to be highly practical.

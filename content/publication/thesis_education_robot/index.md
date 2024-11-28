@@ -14,7 +14,7 @@ publishDate: "2022-05-30T00:00:00Z"
 publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Thesis"
 publication_short: ""
 
 abstract: Automatic problem solving has made significant progress in recent years, and its technology can already solve some of the simple math problems. Educational robots can be combined with automated problem-solving engines to tutor children's math homework and avoid the drawbacks associated with problem from Tipaipai model software. Because the math homework tutoring process is characterized by multiple rounds of interaction and multiple roles, the management of state transitions has its own complexity. The state transition management also directly determines the service quality of the system. The thesis first identifies the set of states in math homework tutoring, and designs a state transition model to cover the states. The thesis implements an educational robot tutoring math homework system based on the model, including a dialogue manager that completes multiple rounds of tutoring activity interaction and a multi-channel collaborative control system for the robot. Through experiments on top of the NAO robot, it is verified that the state transition of the model can effectively solve the problem of multiple rounds of interaction regarding homework tutoring and the problem of multiple roles participating in tutoring activities in homework tutoring.

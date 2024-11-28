@@ -14,7 +14,7 @@ publishDate: "2024-05-30T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "ICRA 2025(submitted)"
 publication_short: ""
 
 abstract: With the ongoing advancements in artificial intelligence and robotics technology, distributed robotic operating systems have become crucial in fields such as intelligent robotics, autonomous vehicles, and smart manufacturing. These systems rely on efficient robotic middleware for reliable inter-component communication. However, existing solutions still face challenges in managing diverse communication demands, optimizing cross-domain communication efficiency, and ensuring the determinacy of communication scheduling. This research introduces an innovative robotic middleware framework designed to overcome these challenges through a hybrid network communication strategy. By flexibly switching the scope of service discovery, the framework supports diverse communication methods ranging from in-process shared pointers to cross-device various Ethernet protocols. A core data stream forwarding mechanism significantly reduces data redundancy and non-deterministic delays in cross-domain communication, thus enhancing communication efficiency and stability. This study not only extends the communication capabilities of robotic operating systems but also offers a new solution path for complex communications in distributed systems.
