@@ -29,6 +29,7 @@ featured: true
 
 links:
 url_video: 'https://www.youtube.com/watch?v=ky4M_Orx0NI'
+url_pdf: 'https://github.com/fengmao31/fengmao31.github.io/blob/main/content/publication/thesis_education_robot/JI_thesis_paper3_0.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
