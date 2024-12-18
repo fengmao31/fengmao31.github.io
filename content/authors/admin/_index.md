@@ -94,8 +94,10 @@ work:
     date_end: 2025-03-01
     summary: |
       A member of a auto-driving os department to design, implement, apply the strong communication and scheduling system on Intelligent automobile.
-      
-      Skills: Robot Operating System (ROS) · DDS · ZeroMQ
+
+      A member of the foresight algorithm team in the planning department, focusing on adaptive mapless trajectory generation and hybrid planning algorithms that integrate neural networks with rule-based method.
+
+      Skills: Robot Operating System (ROS) · DDS · ZeroMQ · QP · Interactive Qame · MCTS
   - position: Software Engineer
     company_name: COWAROBOT
     date_start: 2022-07-01
@@ -120,7 +122,7 @@ skills:
         icon: robot
       - name: Pytorch,Tensorflow
         description: ''
-        percent: 80
+        percent: 60
         icon: database
   - name: Hobbies
     color: '#eeac02'
