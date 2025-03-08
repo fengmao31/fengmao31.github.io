@@ -1,12 +1,12 @@
 ---
-title: "Service Discovery-based Hybrid Network Robotic Middleware for Efficient Communication"
+title: "Service Discovery-Based Hybrid Network Middleware for Efficient Communication in Distributed Robotic Systems"
 authors:
 - Shiyao Sang
 date: "2023-10-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-30T00:00:00Z"
+publishDate: "2025-03-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,13 +14,13 @@ publishDate: "2024-05-30T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ICRA 2025(submitted)"
+publication: "IROS 2025(submitted)"
 publication_short: ""
 
-abstract: With the ongoing advancements in artificial intelligence and robotics technology, distributed robotic operating systems have become crucial in fields such as intelligent robotics, autonomous vehicles, and smart manufacturing. These systems rely on efficient robotic middleware for reliable inter-component communication. However, existing solutions still face challenges in managing diverse communication demands, optimizing cross-domain communication efficiency, and ensuring the determinacy of communication scheduling. This research introduces an innovative robotic middleware framework designed to overcome these challenges through a hybrid network communication strategy. By flexibly switching the scope of service discovery, the framework supports diverse communication methods ranging from in-process shared pointers to cross-device various Ethernet protocols. A core data stream forwarding mechanism significantly reduces data redundancy and non-deterministic delays in cross-domain communication, thus enhancing communication efficiency and stability. This study not only extends the communication capabilities of robotic operating systems but also offers a new solution path for complex communications in distributed systems.
+abstract: This research presents an innovative robotic middleware framework that enhances communication efficiency, stability, and determinacy in distributed robotic operating systems.
 
 # Summary. An optional shortened abstract.
-summary: This research presents an innovative robotic middleware framework that enhances communication efficiency, stability, and determinacy in distributed robotic operating systems through a hybrid network communication strategy and optimized data stream forwarding.
+summary: This research presents an innovative robotic middleware framework that enhances communication efficiency, stability, and determinacy in distributed robotic operating systems.
 
 tags:
 - Robot
@@ -30,7 +30,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://github.com/fengmao31/fengmao31.github.io/blob/main/content/publication/thesis_education_robot/ieeeconf_rimaos2c_draft.pdf'
+# url_pdf: 'https://github.com/fengmao31/fengmao31.github.io/blob/main/content/publication/thesis_education_robot/ieeeconf_rimaos2c_draft.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
