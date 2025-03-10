@@ -77,12 +77,12 @@ education:
       Skills: Cybersecurity
   - area: BSc Computer Science and Technology
     institution: Huaiyin Institute of Technology
-    date_start: 2016-09-01
+    date_start: 2014-09-01
     date_end: 2018-07-01
     summary: |
       Courses included:
-      - Robotics, 
-      - Social Robot, 
+      - Robotics
+      - Social Robot
       - Chatbot
       - Deeping Learning
   
@@ -105,7 +105,7 @@ work:
     summary: |
       A member of a romote driving system group and Responsible for advance network secure module and auido module .
 
-      Skills: Robot Operating System (ROS) · Webrtc · Openssl
+      Skills: Robot Operating System (ROS) · ZLMediaKit · Webrtc · Openssl
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
