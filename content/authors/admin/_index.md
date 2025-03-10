@@ -154,7 +154,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 'Silver Award in Pearl River Delta National University Students Computer Competition'
+  - title: 'Silver Award in Pan-Pearl River Delta University Students Computer Works Competition Finals'
     date: '2017-08-01'
     awarder: CCF
   - title: 'Second Prize in China Engineering Robot Competition'
