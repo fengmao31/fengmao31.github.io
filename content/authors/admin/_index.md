@@ -24,10 +24,12 @@ role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: RAS
+    url: https://www.ieee-ras.org/cognitive-robotics
   - name: ROS
     url: https://www.ros.org/
   - name: ModDB
-    url: https://www.moddb.com/
+    url: https://www.moddb.com/members/fengmao31
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
