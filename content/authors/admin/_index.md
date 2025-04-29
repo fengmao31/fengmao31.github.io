@@ -95,7 +95,7 @@ work:
     date_start: 2023-03-01
     date_end: 2025-03-01
     summary: |
-      A member of a auto-driving os department to design, implement, apply the strong communication and scheduling system on Intelligent automobile.
+      A member of the autonomous driving operating system department, responsible for designing, implementing, and deploying a robust communication and scheduling system for intelligent vehicles.
 
       A member of the foresight algorithm team in the planning department, focusing on adaptive mapless trajectory generation and hybrid planning algorithms that integrate neural networks with rule-based method.
 
