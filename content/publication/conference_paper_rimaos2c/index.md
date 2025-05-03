@@ -17,10 +17,10 @@ publication_types: ["paper-conference"]
 publication: "IROS 2025(submitted)"
 publication_short: ""
 
-abstract: This research presents an innovative robotic middleware framework that enhances communication efficiency, stability, and determinacy in distributed robotic operating systems.
+abstract: This research proposes an innovative robotic middleware framework designed to improve the diversity, efficiency, and stability of communication within distributed robotic operating systems. The paper is currently under review for IROS 2025.
 
 # Summary. An optional shortened abstract.
-summary: This research presents an innovative robotic middleware framework that enhances communication efficiency, stability, and determinacy in distributed robotic operating systems.
+summary: This research proposes an innovative robotic middleware framework designed to improve the diversity, efficiency, and stability of communication within distributed robotic operating systems. The paper is currently under review for IROS 2025.
 
 tags:
 - Robot
