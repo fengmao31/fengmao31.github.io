@@ -90,7 +90,7 @@ education:
   
       Skills: C# · Natural Language Processing (NLP) · Robot Operating System (ROS) · C++ · Convolutional Neural Networks (CNN)
 work:
-  - position: Software Engineer && Algorithms Engineer
+  - position: Software Engineer && Algorithm Engineer
     company_name: Zdrive.ai
     date_start: 2023-03-01
     date_end: 2025-03-01
