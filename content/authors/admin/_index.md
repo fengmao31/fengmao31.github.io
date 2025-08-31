@@ -90,8 +90,16 @@ education:
   
       Skills: C# · Natural Language Processing (NLP) · Robot Operating System (ROS) · C++ · Convolutional Neural Networks (CNN)
 work:
+  - position: Algorithm Engineer
+    company_name: BYD Company Ltd. — Institute of New Technology Research
+    date_start: 2025-06-01
+    date_end: 2025-12-01
+    summary: |
+      A member of the Uber Gaming Group, responsible for applying game theory to optimize decision-making in autonomous driving, as well as conducting research on model-based evaluators and planners.
+
+      Skills: Robot Operating System (ROS) · Interactive Game · Neural Network Planning
   - position: Software Engineer && Algorithm Engineer
-    company_name: Zdrive.ai
+    company_name: Chery Automobile Co., Ltd.
     date_start: 2023-03-01
     date_end: 2025-03-01
     summary: |
@@ -99,9 +107,9 @@ work:
 
       A member of the foresight algorithm team in the planning department, focusing on adaptive mapless trajectory generation and hybrid planning algorithms that integrate neural networks with rule-based method.
 
-      Skills: Robot Operating System (ROS) · DDS · ZeroMQ · QP · Interactive Qame · MCTS
+      Skills: Robot Operating System (ROS) · DDS · ZeroMQ · QP · Interactive Game · MCTS
   - position: Software Engineer
-    company_name: COWAROBOT
+    company_name: Coolwa Technology Co., Ltd.
     date_start: 2022-07-01
     date_end: 2023-01-01
     summary: |
