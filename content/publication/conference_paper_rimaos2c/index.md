@@ -62,6 +62,8 @@ projects:
 slides: example
 ---
 
+{{< youtube H3wRI_5Lups >}}
+
 This work is accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, oral presentation.
 
 https://arxiv.org/abs/2508.00947
