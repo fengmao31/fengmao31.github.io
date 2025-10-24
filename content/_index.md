@@ -35,21 +35,20 @@ sections:
       title: '📚 Current Research'
       subtitle: ''
       text: |-
-        My research focuses on intelligent robotics and artificial intelligence, with a particular emphasis on enhancing autonomy, decision-making, and human-machine interaction. I am currently exploring the following areas:
 
-        - Multi-Task Decision-Making with Chain-of-Thought for Improved Autonomy
+        My research lies at the intersection of world representation, cognitive robotics, and deep reinforcement learning, with the goal of enabling more autonomous, generalizable, and human-aligned robotic intelligence. I am currently exploring the following directions:
 
-        I investigate how integrating chain-of-thought processes into multi-task decision-making can enhance the autonomy of robotic systems. By simulating human-like reasoning, robots can better handle complex tasks in dynamic environments, making more informed and independent decisions across multiple scenarios.
+        - Sparse World Representation
+        Learning minimal yet semantically meaningful representations from high-dimensional perception, replacing dense world-model reconstruction and enabling fuzzy memory alignment across scenes.
 
-        - LLM-Assisted Human-Like Decision-Making and Explainability
+        - Cognitive Skill Templates
+        Designing interpretable and composable action schemas (symbolic abstraction × RL policy) to support contextual reasoning, adaptive behavior, and robust failure recovery in dynamic human–robot interaction.
 
-        I am exploring the use of Large Language Models (LLMs) to assist robots in making human-like decisions with enhanced explainability. By leveraging LLMs, robots can generate natural language explanations for their actions, improving transparency and fostering trust in human-robot interactions. This approach aims to bridge the gap between AI decision-making processes and human understanding.
+        - Intent Autoregression & Spatiotemporal Co-evolution
+        Enabling long-horizon planning by imagining future states through intent-token autoregression for joint spatiotemporal decision-making.
 
-        - Generative Robot World Models with Monte Carlo Exploration
-        
-        My research also focuses on constructing generative world models that include robot actions and environmental dynamics. By employing Monte Carlo methods for exploration and evaluation, I aim to predict and assess possible future actions. This enables robots to plan ahead and make optimal decisions in uncertain environments, enhancing their ability to adapt and perform complex tasks.
-        
-        Please reach out to collaborate 😃
+        Excited to connect and explore potential collaborations 😃
+
     design:
       columns: '1'
   - block: collection

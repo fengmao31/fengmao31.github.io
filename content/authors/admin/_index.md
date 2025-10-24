@@ -180,5 +180,6 @@ awards:
 
 ## About Me
 
-Samuel is a robotics software engineer focused on optimizing intelligent robot control through the application of chatbot technologies. His research spans several cutting-edge areas, including the Robot Operating System (ROS), deep reinforcement learning, and social robotics. Samuel has developed numerous robots and chatbots, yet he continues to explore the elusive concept of endowing robots with what can be described as a "soul."
+I am a researcher working toward cognitive autonomy — enabling robots not only to act, but to imagine, reason, and adapt. My current work, TIWM (Tokenized Intent World Model), establishes a unified representation–generation–decision semantic loop — a system that can predict future intent and act upon it.
 
+This marks the first step toward a hybrid paradigm that fuses interpretable cognitive templates with sparse autoregressive world modeling, aiming for generalizable and human-aligned robotic intelligence.
