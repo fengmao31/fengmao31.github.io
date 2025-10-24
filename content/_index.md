@@ -36,18 +36,27 @@ sections:
       subtitle: ''
       text: |-
 
-        My research lies at the intersection of world representation, cognitive robotics, and deep reinforcement learning, with the goal of enabling more autonomous, generalizable, and human-aligned robotic intelligence. I am currently exploring the following directions:
-
         - Sparse World Representation
-        Learning minimal yet semantically meaningful representations from high-dimensional perception, replacing dense world-model reconstruction and enabling fuzzy memory alignment across scenes.
+
+        Learning minimal yet semantically grounded tokens from high-dimensional perception to replace dense world-model reconstruction and enable fuzzy-memory sparse alignment across scenes.
 
         - Cognitive Skill Templates
-        Designing interpretable and composable action schemas (symbolic abstraction × RL policy) to support contextual reasoning, adaptive behavior, and robust failure recovery in dynamic human–robot interaction.
+
+        Designing interpretable, composable action schemas (symbolic abstraction × RL policy) for contextual reasoning, fast adaptation, and robust error recovery in dynamic human–robot interaction.
 
         - Intent Autoregression & Spatiotemporal Co-evolution
-        Enabling long-horizon planning by imagining future states through intent-token autoregression for joint spatiotemporal decision-making.
 
-        Excited to connect and explore potential collaborations 😃
+        Imagining future states via intent-token autoregression to support long-horizon, joint spatiotemporal planning without dense future rollouts.
+
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: '📚 TIWM — Tokenized Intent World Model'
+      subtitle: ''
+      text: |-
+
+        A unified representation–generation–decision semantic loop that imagines futures and acts upon them with intent. TIWM provides an intent interface that fuses template-driven cognition with sparse AR long-horizon reasoning for scalable, interpretable planning.
 
     design:
       columns: '1'

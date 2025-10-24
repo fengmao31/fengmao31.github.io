@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Robotics Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,9 +51,11 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Robot Operating System
+  - Cognitive Robotics
+  - World Representation
   - Deep Reinforcement Learning
-  - Social Robot
+  - Robotic Middleware (ROS/ROS2)
+  - LLM/VLM for Robotics
 
 education:
   - area: MEng Computer Technology
@@ -180,6 +182,4 @@ awards:
 
 ## About Me
 
-I am a researcher working toward cognitive autonomy — enabling robots not only to act, but to imagine, reason, and adapt. My current work, TIWM (Tokenized Intent World Model), establishes a unified representation–generation–decision semantic loop — a system that can predict future intent and act upon it.
-
-This marks the first step toward a hybrid paradigm that fuses interpretable cognitive templates with sparse autoregressive world modeling, aiming for generalizable and human-aligned robotic intelligence.
+I am a robotics researcher working toward cognitive autonomy—robots that not only act, but understand, adapt, and self-correct. I am currently building the first step with TIWM (Tokenized Intent World Model), a sparse intent-token interface between perception and decision-making. My long-term goal is to unify interpretable cognitive templates and autoregressive long-horizon planning into a hybrid paradigm for generalizable, human-aligned robotic intelligence.
