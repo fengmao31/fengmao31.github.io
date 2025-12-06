@@ -6,7 +6,7 @@ date: "2023-10-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-01T00:00:00Z"
+publishDate: "2025-11-27T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -64,9 +64,11 @@ slides: example
 
 {{< youtube uMvyOykTlkA >}}
 
-This work is accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, oral presentation.
+This work is published in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) as an Oral Presentation.
 
 https://arxiv.org/abs/2508.00947
+
+https://ieeexplore.ieee.org/document/11246913
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
