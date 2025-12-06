@@ -21,7 +21,7 @@ abstract: |
   We challenge the prevailing philosophical assumption that high-performance autonomous driving necessitates high-fidelity world reconstruction. Drawing inspiration from cognitive science, we propose the Tokenized Intent World Model (TIWM). We posit that the essence of intelligence lies not in pixel-perfect reconstruction, but in the cognitive alignment between the internal intent world and physical reality. We successfully formalize cognitive mechanisms—sparse coding, mental simulation and belief-intent co-evolution—into an end-to-end agentic system. In NuPlan benchmarks, using only 360 scenarios (approx. 1.5 hours, 11,000+ frames)—merely 1% of the data scale used by SOTA methods—our model achieves an open-loop validation ADE of 0.487m via sparse activation, and 0.382m with future token prediction. In closed-loop evaluation, it attains a score of 59. Crucially, the agent exhibits cognitive behaviors in simulation, such as map affordance understanding, free exploration without navigation, and robust recovery strategies. These "survival instincts" transcend the boundaries of traditional imitation learning. Based on these findings, we propose two fundamental hypotheses: (1) Intelligence is determined by the consistency of attentional connectivity with the physical world, rather than merely by parameter count or data volume; (2) The Token functions as the computational isomorph to the biological neural cell assembly (functional neuron), rather than the artificial perceptron. Our work not only bridges the engineering gap between World Models and VLA systems but also reconciles the dichotomy between Symbolism and Connectionism, marking a pioneering engineering realization of cognitive science principles. |
 
 # Summary. An optional shortened abstract.
-summary: Summary We introduce the Tokenized Intent World Model (TIWM), a paradigm shift that challenges the necessity of high-fidelity world reconstruction. By formalizing Tokens as functional neural cell assemblies, our agent achieves a closed-loop score of 59.24 on NuPlan using only 1% of the data required by SOTA methods (score 89.87). This work demonstrates state-of-the-art data efficiency, bridging the gap between World Models and VLA systems and reconciling the dichotomy between Symbolism and Connectionism.
+summary: We introduce the Tokenized Intent World Model (TIWM), a paradigm shift that challenges the necessity of high-fidelity world reconstruction. By formalizing Tokens as functional neural cell assemblies, our agent achieves a closed-loop score of 59.24 on NuPlan using only 1% of the data required by SOTA methods (score 89.87). This work demonstrates state-of-the-art data efficiency, bridging the gap between World Models and VLA systems and reconciling the dichotomy between Symbolism and Connectionism.
 
 tags:
 - AI
@@ -64,6 +64,7 @@ slides: example
 ---
 
 Old version:
+
 https://arxiv.org/abs/2511.05540
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
