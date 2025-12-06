@@ -109,7 +109,7 @@ work:
 
       A member of the foresight algorithm team in the planning department, focusing on adaptive mapless trajectory generation and hybrid planning algorithms that integrate neural networks with rule-based method.
 
-      Skills: Robot Operating System (ROS) · DDS · ZeroMQ · QP · Interactive Game · MCTS
+      Skills: Robot Operating System (ROS) · DDS · ZeroMQ · QP · Interactive Game · MCTS · Neural Network Planning
   - position: Software Engineer
     company_name: Coolwa Technology Co., Ltd.
     date_start: 2022-07-01
