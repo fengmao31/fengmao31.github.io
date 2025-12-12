@@ -66,8 +66,9 @@ education:
       Courses included:
       - Human Computer Interface
       - Education Robot
-  
-      Skills: NAO · C# · Reinforcement Learning
+      - Reasoning and Learning
+
+      Skills: NAO · C# · Reinforcement Learning · Multi-agent Systems
   - area: MSc Computer Science
     institution: University of Wollongong
     date_start: 2020-07-01
