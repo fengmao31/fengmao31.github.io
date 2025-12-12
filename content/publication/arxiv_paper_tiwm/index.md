@@ -18,10 +18,10 @@ publication: "Arxiv"
 publication_short: ""
 
 abstract: | 
-  We challenge the prevailing philosophical assumption that high-performance autonomous driving necessitates high-fidelity world reconstruction. Drawing inspiration from cognitive science, we propose the Tokenized Intent World Model (TIWM). We posit that the essence of intelligence lies not in pixel-perfect reconstruction, but in the cognitive alignment between the internal intent world and physical reality. We successfully formalize cognitive mechanisms—sparse coding, mental simulation and belief-intent co-evolution—into an end-to-end agentic system. In NuPlan benchmarks, using only 360 scenarios (approx. 1.5 hours, 11,000+ frames)—merely 1% of the data scale used by SOTA methods—our model achieves an open-loop validation ADE of 0.487m via sparse activation, and 0.382m with future token prediction. In closed-loop evaluation, it attains a score of 46. Crucially, the agent exhibits cognitive behaviors in simulation, such as map affordance understanding, free exploration without navigation, and robust recovery strategies. These "survival instincts" transcend the boundaries of traditional imitation learning. Based on these findings, we propose two fundamental hypotheses: (1) Intelligence is determined by the consistency of attentional connectivity with the physical world, rather than merely by parameter count or data volume; (2) The Token functions as the computational isomorph to the biological neural cell assembly (functional neuron), rather than the artificial perceptron. Our work not only bridges the engineering gap between World Models and VLA systems but also reconciles the dichotomy between Symbolism and Connectionism, marking a pioneering engineering realization of cognitive science principles.
+  We challenge the prevailing dogma in autonomous driving that high-performance planning necessitates high-fidelity world reconstruction. Drawing inspiration from cognitive science, we propose the Tokenized Intent World Model (TIWM). We posit that the essence of intelligence lies not in pixel-perfect reconstruction, but in the cognitive alignment between internal intent representations and physical reality. By formalizing cognitive mechanisms—sparse coding, mental simulation, and belief-intent co-evolution—into an end-to-end agentic system, we demonstrate a radical efficiency breakthrough. On NuPlan benchmarks, using only 360 scenarios (~1.5 hours, 1% of SOTA data scale), TIWM achieves an open-loop validation ADE of 0.487m (sparse activation) and 0.382m (future token prediction). In closed-loop evaluation, the agent demonstrates robust feasibility and emergent "survival instincts"—such as map affordance understanding, free exploration, and self-recovery—that transcend the boundaries of traditional imitation learning. Based on these findings, we propose two fundamental hypotheses: (1) Intelligence emerges from the consistency of attentional connectivity with the physical world, rather than mere parameter scale; (2) The Intent Token functions as the computational isomorph to the biological neural cell assembly, offering a more biologically plausible unit of computation than the artificial perceptron. This work not only bridges the gap between World Models and VLA systems but also reconciles the dichotomy between Symbolism and Connectionism, marking a pioneering engineering realization of cognitive first principles.
 
 # Summary. An optional shortened abstract.
-summary: We introduce the Tokenized Intent World Model (TIWM), a paradigm shift that challenges the necessity of high-fidelity world reconstruction. By formalizing Tokens as functional neural cell assemblies, our agent demonstrates emergent cognitive behaviors and maintains competitive capabilities with a closed-loop score of 46 on the NuPlan Mini-split benchmark. Crucially, this is achieved using only 1% of the training data typically required by large-scale models. This work validates the feasibility of sparse, intent-driven cognitive alignment, reconciling the dichotomy between Symbolism and Connectionism with unprecedented data efficiency.
+summary: A cognitive planning framework using sparse intent tokens. TIWM achieves emergent survival behaviors and exceptional data efficiency without requiring high-fidelity world reconstruction.
 
 tags:
 - AI
@@ -31,14 +31,14 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 'https://github.com/fengmao31/fengmao31.github.io/blob/main/content/publication/thesis_education_robot/ieeeconf_rimaos2c_draft.pdf'
+# url_pdf: '#'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+# url_video: 'https://www.youtube.com/watch?v=RB5l0c4qQoE'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,6 +62,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+{{< youtube RB5l0c4qQoE >}}
 
 Old version:
 
