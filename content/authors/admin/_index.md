@@ -86,12 +86,13 @@ education:
     date_end: 2018-07-01
     summary: |
       Courses included:
+      - Computer Network
       - Robotics
-      - Social Robot
       - Chatbot
-      - Deeping Learning
+      - Social Robot
+      - Deep Learning
   
-      Skills: C# · Natural Language Processing (NLP) · Robot Operating System (ROS) · C++ · Convolutional Neural Networks (CNN)
+      Skills: C# · Robot Operating System (ROS) · C++ · Natural Language Processing (NLP) · Convolutional Neural Networks (CNN)
 work:
   - position: Algorithm Engineer
     company_name: BYD Company Ltd. — Institute of New Technology Research
