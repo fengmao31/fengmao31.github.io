@@ -31,14 +31,14 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 'https://github.com/fengmao31/fengmao31.github.io/blob/main/content/publication/thesis_education_robot/ieeeconf_rimaos2c_draft.pdf'
+# url_pdf: '#'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=uMvyOykTlkA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
