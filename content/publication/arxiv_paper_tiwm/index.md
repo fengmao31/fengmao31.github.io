@@ -38,7 +38,7 @@ links:
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: 'https://youtu.be/I6rIkOuZOFY'
+url_video: 'https://youtu.be/PqgWfie1Qo0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -63,7 +63,7 @@ projects:
 slides: example
 ---
 
-{{< youtube I6rIkOuZOFY >}}
+{{< youtube PqgWfie1Qo0 >}}
 
 Old version:
 
