@@ -14,7 +14,7 @@ publishDate: "2025-11-27T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025."
+publication: "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025"
 publication_short: ""
 
 abstract: |
