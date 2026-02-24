@@ -102,7 +102,7 @@ work:
       A member of the Uber Gaming Group, responsible for applying game theory to optimize decision-making in autonomous driving, as well as conducting research on model-based evaluators and planners.
 
       Skills: Robot Operating System (ROS) · Interactive Game · Neural Network Planning
-  - position: Software Engineer && Algorithm Engineer
+  - position: Software Engineer & Algorithm Engineer
     company_name: Chery Automobile Co., Ltd.
     date_start: 2023-03-01
     date_end: 2025-03-01
