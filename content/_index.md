@@ -56,7 +56,7 @@ sections:
       subtitle: ''
       text: |-
 
-        A unified representation–generation–decision semantic loop that imagines futures and acts upon them with intent. TIWM provides an intent interface that fuses template-driven cognition with sparse AR long-horizon reasoning for scalable, interpretable planning.
+        A unified representation–generation–decision semantic loop that imagines futures and acts upon them with intent. TIWM provides an intent interface that fuses template-driven cognition with sparse autoregressive long-horizon reasoning for scalable, interpretable planning.
 
     design:
       columns: '1'

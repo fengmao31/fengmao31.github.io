@@ -113,7 +113,7 @@ work:
 
       Skills: Robot Operating System (ROS) · DDS · ZeroMQ · QP · Interactive Game · MCTS · Neural Network Planning
   - position: Software Engineer
-    company_name: Coolwa Technology Co., Ltd.
+    company_name: Coowa Technology Co., Ltd.
     date_start: 2022-07-01
     date_end: 2023-01-01
     summary: |
