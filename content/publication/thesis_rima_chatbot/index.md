@@ -17,7 +17,8 @@ publication_types: ["thesis"]
 publication: "Thesis"
 publication_short: ""
 
-abstract: This thesis designs and implements an intelligent chatbot system called Rima, designed for IoT robots. The system is based on a three-layer architecture that integrates language understanding services (LUIS), a retrieval-based chatbot (AIML), and a generative chatbot (Seq2seq), enabling command recognition and natural language conversation. Through cross-platform development, Rima operates in various client environments and offers API support, allowing the chatbot to be utilized in IoT devices. The experiments demonstrate that the multi-layer hybrid structure performs well in both command execution and casual conversations, proving to be highly practical.
+abstract: |
+  This thesis presents the design and implementation of Rima, an intelligent chatbot system tailored for IoT robots. The system utilizes a three-layer architecture that integrates Language Understanding Intelligent Service (LUIS), a retrieval-based chatbot (AIML), and a generative model (Seq2Seq), enabling both precise command recognition and fluid natural language conversation. Developed through a cross-platform approach, Rima operates across diverse client environments and provides API support for seamless integration into IoT hardware. Furthermore, by enhancing AIML tags, the system incorporates online learning capabilities, allowing the robot to update its common-sense knowledge base in real-time during interactions. Experimental results demonstrate that this multi-layer hybrid structure performs effectively in both task execution and open-domain chat, proving its high practical value for the IoT ecosystem.
 
 # Summary. An optional shortened abstract.
 summary: This thesis presents the implementation of a multi-layer architecture intelligent chatbot system that effectively supports command recognition and natural language conversation for IoT robots.
@@ -53,6 +54,8 @@ projects:
 slides: example
 ---
 
+Real-time Online Learning Capabilities
 {{< youtube TYzX47ERTpQ >}}
 
+Autonomous Navigation with Multimodal Interaction
 {{< youtube ccyIj09xsAY >}}
