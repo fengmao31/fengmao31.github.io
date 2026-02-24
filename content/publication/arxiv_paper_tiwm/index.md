@@ -1,5 +1,5 @@
 ---
-title: "Token Is All You Need: Cognitive Planning through Belief–Intent Co-Evolution"
+title: "Constructing the Umwelt: Cognitive Planning through Belief-Intent Co-Evolution"
 authors:
 - Shiyao Sang
 date: "2025-03-15T00:00:00Z"
@@ -18,10 +18,10 @@ publication: "Arxiv"
 publication_short: ""
 
 abstract: | 
-  We challenge the prevailing dogma in autonomous driving that high-performance planning necessitates high-fidelity world reconstruction. Drawing inspiration from cognitive science, we propose the Tokenized Intent World Model (TIWM). We posit that the essence of intelligence lies not in pixel-perfect reconstruction, but in the cognitive alignment between internal intent representations and physical reality. By formalizing cognitive mechanisms—sparse coding, mental simulation, and belief-intent co-evolution—into an end-to-end agentic system, we demonstrate a radical efficiency breakthrough. On NuPlan benchmarks, using only 360 scenarios (~1.5 hours, 1% of SOTA data scale), TIWM achieves an open-loop validation ADE of 0.487m (sparse activation) and 0.382m (future token prediction). In closed-loop evaluation, the agent demonstrates robust feasibility and emergent "survival instincts"—such as map affordance understanding, free exploration, and self-recovery—that transcend the boundaries of traditional imitation learning. Based on these findings, we propose two fundamental hypotheses: (1) Intelligence emerges from the alignment of dynamic attention with the physical world, rather than mere parameter scale; (2) The Intent Token functions as the computational isomorph to the biological neural cell assembly, offering a more biologically plausible unit of computation than the artificial perceptron. This work not only bridges the gap between World Models and VLA systems but also reconciles the dichotomy between Symbolism and Connectionism, marking a pioneering engineering realization of cognitive first principles.
+  This paper challenges a prevailing epistemological assumption in End-to-End Autonomous Driving: that high-performance planning necessitates high-fidelity world reconstruction. Inspired by cognitive science, we propose the Mental Bayesian Causal World Model (MBCWM) and instantiate it as the Tokenized Intent World Model (TIWM), a novel cognitive computing architecture. Its core philosophy posits that intelligence emerges not from pixel-level objective fidelity, but from the Cognitive Consistency between the agent’s internal intentional world and physical reality. By synthesizing von Uexküll’s Umwelt theory, the neural assembly hypothesis, and the triple causal model (integrating symbolic deduction, probabilistic induction, and force dynamics) into an end-to-end embodied planning system, we demonstrate the feasibility of this paradigm on the nuPlan benchmark. Experimental results in open-loop validation confirm that our Belief-Intent Co-Evolution mechanism effectively enhances planning performance. Crucially, in closed-loop simulations, the system exhibits emergent human-like cognitive behaviors, including map affordance understanding, free exploration, and self-recovery strategies. We identify Cognitive Consistency as the core learning mechanism: during long-term training, belief (state understanding) and intent (future prediction) spontaneously form a self-organizing equilibrium through implicit computational replay, achieving semantic alignment between internal representations and physical world affordances. Based on this, we propose two fundamental hypotheses: (H1) The efficacy of embodied intelligence depends less on parameter scale or data volume, and more on the degree of semantic alignment between internal attentional dynamics and physical affordances; (H2) The Intent Token serves as a functional neural unit, computationally analogous to the biological neural assembly. TIWM offers a neuro-symbolic, cognition-first alternative to reconstruction-based planners, establishing a new direction: planning as active understanding, not passive reaction.
 
 # Summary. An optional shortened abstract.
-summary: A cognitive planning framework using sparse intent tokens. TIWM achieves emergent survival behaviors and exceptional data efficiency without requiring high-fidelity world reconstruction.
+summary: "A paradigm shift from reconstructing the world to understanding it: planning through Belief-Intent Co-Evolution"
 
 tags:
 - AI
@@ -63,11 +63,10 @@ projects:
 slides: example
 ---
 
-{{< youtube PqgWfie1Qo0 >}}
+{{< youtube Aeal4YLcb0I >}}
 
-Old version:
 
-https://arxiv.org/abs/2511.05540
+https://arxiv.org/abs/2511.05540v3
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
