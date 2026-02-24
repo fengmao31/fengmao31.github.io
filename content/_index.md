@@ -36,17 +36,17 @@ sections:
       subtitle: ''
       text: |-
 
-        - Sparse World Representation
+        - Sparse Semantic Grounding & World Representation
 
-        Learning minimal yet semantically grounded tokens from high-dimensional perception to replace dense world-model reconstruction and enable fuzzy-memory sparse alignment across scenes.
+        I explore the distillation of minimal, semantically grounded tokens from high-dimensional perceptual streams. This sparse alignment mechanism leverages 'fuzzy-memory' to maintain cognitive continuity across heterogeneous environments, bypassing the need for computationally intensive dense reconstructions.
 
         - Cognitive Skill Templates
 
-        Designing interpretable, composable action schemas (symbolic abstraction × RL policy) for contextual reasoning, fast adaptation, and robust error recovery in dynamic human–robot interaction.
+        I design composable action schemas that synthesize symbolic abstraction with Reinforcement Learning (RL) policies. These templates provide a framework for contextual reasoning and rapid adaptation, ensuring robust error recovery and "self-healing" behaviors during complex, non-deterministic human–robot interactions (HRI).
 
         - Intent Autoregression & Spatiotemporal Co-evolution
 
-        Imagining future states via intent-token autoregression to support long-horizon, joint spatiotemporal planning without dense future rollouts.
+        I leverage intent token autoregression to facilitate the "mental simulation" of future states. This approach enables long-horizon joint spatiotemporal planning by evolving decisions within a sparse latent space, achieving the foresight of dense future rollouts with the efficiency of a tokenized architecture.
 
     design:
       columns: '1'
