@@ -65,7 +65,7 @@ slides: example
 
 {{< youtube uMvyOykTlkA >}}
 
-This work is published in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) as an Oral Presentation.
+This work is published in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 https://arxiv.org/abs/2508.00947
 
