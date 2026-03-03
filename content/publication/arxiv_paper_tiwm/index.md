@@ -65,8 +65,12 @@ slides: example
 
 {{< youtube Aeal4YLcb0I >}}
 
-
 https://arxiv.org/abs/2511.05540v3
+
+> 既自以心为形役，奚惆怅而独悲？
+> 悟已往之不谏，知来者之可追。
+> 实迷途其未远，觉今是而昨非。
+——《归去来兮辞》陶渊明
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
