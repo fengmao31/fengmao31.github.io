@@ -184,4 +184,6 @@ awards:
 
 ## About Me
 
-I am a robotics researcher dedicated to achieving true cognitive autonomy—developing systems that do not merely execute commands but possess the capacity for deep understanding, dynamic adaptation, and proactive self-correction. My current work centers on TIWM (Tokenized Intent World Model), a pioneering sparse intent token interface bridging the gap between raw perception and high-level agency. My long-term goal is to unify interpretable cognitive templates with autoregressive long-horizon planning into a hybrid paradigm for generalizable, human-aligned robotic intelligence.
+I am a robotics researcher working at the intersection of world models, cognitive robotics, and autonomous planning. I am interested in how robots can act through sparse, task-relevant internal representations rather than relying on dense reconstruction and reactive control.
+
+My current work centers on TIWM (Tokenized Intent World Model), a framework for intent-driven planning through sparse internal structure. In the long term, I aim to connect interpretable cognitive structure with long-horizon autoregressive planning for more generalizable embodied intelligence.

@@ -38,28 +38,28 @@ sections:
 
         - Sparse Semantic Grounding & World Representation
 
-        I explore the distillation of minimal, semantically grounded tokens from high-dimensional perceptual streams. This sparse alignment mechanism leverages 'fuzzy-memory' to maintain cognitive continuity across heterogeneous environments, bypassing the need for computationally intensive dense reconstructions.
+        I study how task-relevant and semantically grounded structure can be distilled from high-dimensional perceptual inputs. Rather than relying on dense reconstruction alone, this line of work explores sparse internal representations that preserve behavioral relevance while reducing computational burden.
 
         - Cognitive Skill Templates
 
-        I design composable action schemas that synthesize symbolic abstraction with Reinforcement Learning (RL) policies. These templates provide a framework for contextual reasoning and rapid adaptation, ensuring robust error recovery and "self-healing" behaviors during complex, non-deterministic human–robot interactions (HRI).
+        I study how task-relevant and semantically grounded structure can be distilled from high-dimensional perceptual inputs. Rather than relying on dense reconstruction alone, this line of work explores sparse internal representations that preserve behavioral relevance while reducing computational burden.
 
         - Intent Autoregression & Spatiotemporal Co-evolution
 
-        I leverage intent token autoregression to facilitate the "mental simulation" of future states. This approach enables long-horizon joint spatiotemporal planning by evolving decisions within a sparse latent space, achieving the foresight of dense future rollouts with the efficiency of a tokenized architecture.
+        I explore structured action representations that combine symbolic abstraction with learned policies. The goal is to support contextual reasoning, rapid adaptation, and robust recovery in complex and uncertain human–robot interaction scenarios.
 
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: '📚 TIWM — Tokenized Intent World Model'
-      subtitle: ''
-      text: |-
+  # - block: markdown
+  #   content:
+  #     title: '📚 TIWM — Tokenized Intent World Model'
+  #     subtitle: ''
+  #     text: |-
 
-        A unified representation–generation–decision semantic loop that imagines futures and acts upon them with intent. TIWM provides an intent interface that fuses template-driven cognition with sparse autoregressive long-horizon reasoning for scalable, interpretable planning.
+  #       TIWM is a planning framework built around a unified loop of representation, generation, and decision-making. It introduces an intent-centered interface for combining sparse internal representations with autoregressive long-horizon reasoning, with the goal of supporting scalable and interpretable planning.
 
-    design:
-      columns: '1'
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
