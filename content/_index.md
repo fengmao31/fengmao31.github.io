@@ -42,11 +42,11 @@ sections:
 
         - Cognitive Skill Templates
 
-        I study how task-relevant and semantically grounded structure can be distilled from high-dimensional perceptual inputs. Rather than relying on dense reconstruction alone, this line of work explores sparse internal representations that preserve behavioral relevance while reducing computational burden.
+        I explore structured action representations that combine symbolic abstraction with learned policies. The goal is to support contextual reasoning, rapid adaptation, and robust recovery in complex and uncertain human–robot interaction scenarios.
 
         - Intent Autoregression & Spatiotemporal Co-evolution
 
-        I explore structured action representations that combine symbolic abstraction with learned policies. The goal is to support contextual reasoning, rapid adaptation, and robust recovery in complex and uncertain human–robot interaction scenarios.
+        I investigate how autoregressive intent representations can support future-oriented reasoning in sparse latent spaces. This formulation aims to enable long-horizon spatiotemporal planning while remaining more efficient and interpretable than dense future rollout approaches.
 
     design:
       columns: '1'
