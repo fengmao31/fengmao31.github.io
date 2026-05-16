@@ -184,6 +184,10 @@ awards:
 
 ## About Me
 
-I am a robotics researcher working at the intersection of world models, cognitive robotics, and autonomous planning. I am interested in how robots can act through sparse, task-relevant internal representations rather than relying on dense reconstruction and reactive control.
+About Me
 
-My current work centers on TIWM (Tokenized Intent World Model), a framework for intent-driven planning through sparse internal structure. In the long term, I aim to connect interpretable cognitive structure with long-horizon autoregressive planning for more generalizable embodied intelligence.
+I am a robotics researcher working at the intersection of world models, cognitive robotics, and autonomous planning. I am interested in how robots can act through sparse, task-relevant internal representations rather than relying solely on dense reconstruction or reactive control.
+
+My current work centers on intent-driven planning through sparse internal structure. In the long term, I aim to integrate reinforcement-learning-driven cognitive skill templates with latent world models, enabling robots to develop more autonomous and adaptive intelligence in complex environments.
+
+
