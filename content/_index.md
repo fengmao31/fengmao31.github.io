@@ -36,17 +36,17 @@ sections:
       subtitle: ''
       text: |-
 
-        - Sparse Semantic Grounding & World Representation
+        - Sparse Latent World Representation
 
-        I study how task-relevant and semantically grounded structure can be distilled from high-dimensional perceptual inputs. Rather than relying on dense reconstruction alone, this line of work explores sparse internal representations that preserve behavioral relevance while reducing computational burden.
+        I study how task-relevant and semantically grounded structures can be distilled from high-dimensional perceptual inputs. Rather than relying on dense reconstruction alone, this line of work explores sparse internal representations that preserve behavioral relevance while reducing computational cost.
 
         - Cognitive Skill Templates
 
-        I explore structured action representations that combine symbolic abstraction with learned policies. The goal is to support contextual reasoning, rapid adaptation, and robust recovery in complex and uncertain human–robot interaction scenarios.
+        I explore how symbolic abstraction and large language models can be combined into cognitive systems for robots. This direction aims to enable robots to reason over scene context, execute actions, and reflect on errors during embodied interaction.
 
-        - Intent Autoregression & Spatiotemporal Co-evolution
+        - Latent Representation Autoregression
 
-        I investigate how autoregressive intent representations can support future-oriented reasoning in sparse latent spaces. This formulation aims to enable long-horizon spatiotemporal planning while remaining more efficient and interpretable than dense future rollout approaches.
+        I investigate how autoregressive latent representations can support future-oriented reasoning in sparse latent spaces. This formulation aims to enable long-horizon spatiotemporal planning while remaining more efficient than dense future rollout approaches.
 
     design:
       columns: '1'

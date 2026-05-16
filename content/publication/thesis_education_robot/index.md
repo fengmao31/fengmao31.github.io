@@ -25,7 +25,7 @@ summary: A state transition model for educational robots that improves multi-rou
 tags:
 - Chatbot
 
-featured: false
+featured: true
 
 links:
 url_video: 'https://www.youtube.com/watch?v=ky4M_Orx0NI'
