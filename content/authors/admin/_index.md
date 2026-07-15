@@ -63,7 +63,7 @@ education:
     date_start: 2020-07-01
     date_end: 2022-07-01
     summary: |
-      Courses included:
+      Selected Courses and Lab Training:
       - Human Computer Interface
       - Education Robot
       - Reasoning and Learning
@@ -74,7 +74,7 @@ education:
     date_start: 2020-07-01
     date_end: 2022-07-01
     summary: |
-      Courses included:
+      Selected Courses:
       - Advance Network Secure
       - Computational Intelligence
       - Big Data Analytics
@@ -85,7 +85,7 @@ education:
     date_start: 2014-09-01
     date_end: 2018-07-01
     summary: |
-      Courses included:
+      Selected Courses and Lab Training:
       - Computer Network
       - Robotics
       - Chatbot
@@ -99,7 +99,7 @@ work:
     date_start: 2025-06-01
     date_end: 2025-12-01
     summary: |
-      A member of the Uber Gaming Group, responsible for applying game theory to optimize decision-making in autonomous driving, as well as conducting research on model-based evaluators and planners.
+      A member of the Urban Joint Game Group, responsible for applying game theory to optimize decision-making in autonomous driving, as well as conducting research on model-based evaluators and planners.
 
       Skills: Robot Operating System (ROS) · Interactive Game · Neural Network Planning
   - position: Software Engineer & Algorithm Engineer
@@ -117,7 +117,7 @@ work:
     date_start: 2022-07-01
     date_end: 2023-01-01
     summary: |
-      A member of a romote driving system group and Responsible for advance network secure module and auido module .
+      A member of a remote driving system group and Responsible for advance network secure module and audio module .
 
       Skills: Robot Operating System (ROS) · ZLMediaKit · Webrtc · Openssl
 
