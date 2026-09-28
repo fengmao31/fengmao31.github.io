@@ -35,18 +35,19 @@ sections:
       title: '📚 Current Research'
       subtitle: ''
       text: |-
-
-        - Sparse Latent World Representation
-
-        I study how task-relevant and semantically grounded structures can be distilled from high-dimensional perceptual inputs. Rather than relying on dense reconstruction alone, this line of work explores sparse internal representations that preserve behavioral relevance while reducing computational cost.
+        My research focuses on how robots organize available information, reason about their situations, and decide how to act.
 
         - Cognitive Skill Templates
 
-        I explore how symbolic abstraction and large language models can be combined into cognitive systems for robots. This direction aims to enable robots to reason over scene context, execute actions, and reflect on errors during embodied interaction.
+        I explore how symbolic abstraction and structured, tagged text can guide language models to perform cognitive operations such as task decomposition, action selection, and self-reflection. I aim to organize these operations into reusable skill templates that support reasoning over scene context and learning from interaction feedback.
 
-        - Latent Representation Autoregression
+        - Agent Systems for Robotics
 
-        I investigate how autoregressive latent representations can support future-oriented reasoning in sparse latent spaces. This formulation aims to enable long-horizon spatiotemporal planning while remaining more efficient than dense future rollout approaches.
+        I investigate how language models, memory, and cognitive skill templates can be integrated into robotic agent systems. This direction explores single-agent workflows and multi-agent collaboration for coordinating robot actions, monitoring execution, and revising plans in response to environmental feedback.
+
+        - Latent World Models
+
+        I aim to develop generative latent world models that capture environmental dynamics conditioned on robot actions. By combining these models with Monte Carlo methods for exploration and evaluation, I aim to simulate possible futures and assess candidate actions, helping robots plan ahead, make informed decisions under uncertainty, and adapt to complex environments.
 
     design:
       columns: '1'
