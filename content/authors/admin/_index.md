@@ -52,10 +52,10 @@ profiles:
 
 interests:
   - Cognitive Robotics
-  - World Representation
+  - Agent Systems for Robotics
+  - Latent World Models
   - Deep Reinforcement Learning
-  - Robotic Middleware (ROS/ROS2)
-  - LLM/VLM for Robotics
+  - Robotic Systems and Middleware
 
 education:
   - area: MEng Computer Technology
@@ -63,7 +63,7 @@ education:
     date_start: 2020-07-01
     date_end: 2022-07-01
     summary: |
-      Selected Courses and Lab Training:
+      Courses and Training:
       - Human Computer Interface
       - Education Robot
       - Reasoning and Learning
@@ -74,7 +74,7 @@ education:
     date_start: 2020-07-01
     date_end: 2022-07-01
     summary: |
-      Selected Courses:
+      Courses and Training:
       - Advance Network Secure
       - Computational Intelligence
       - Big Data Analytics
@@ -85,7 +85,7 @@ education:
     date_start: 2014-09-01
     date_end: 2018-07-01
     summary: |
-      Selected Courses and Lab Training:
+      Courses and Training:
       - Computer Network
       - Robotics
       - Chatbot
